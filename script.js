@@ -1,7 +1,9 @@
 // Variables
+let myName = "Jesse";
 
 
 // Printing to the console
+console.log(myName);
 
 /* ***********************
 *                        *
